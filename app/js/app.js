@@ -8,7 +8,7 @@ class VGLog {
 	}
 
 	run(string = '') {
-		console.log(string)
+		console.log(string);
 	}
 }
 
