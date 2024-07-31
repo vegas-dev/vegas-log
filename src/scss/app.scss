@@ -1,0 +1,12 @@
+$bg: white;
+$color: green;
+$padding: 1.5rem;
+
+.vg-log {
+	display: block;
+	visibility: visible;
+	opacity: 1;
+	background-color: $bg;
+	color: $color;
+	padding: $padding;
+}

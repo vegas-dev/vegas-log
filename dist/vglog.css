@@ -1,0 +1,8 @@
+.vg-log {
+  display: block;
+  visibility: visible;
+  opacity: 1;
+  background-color: white;
+  color: green;
+  padding: 1.5rem;
+}
