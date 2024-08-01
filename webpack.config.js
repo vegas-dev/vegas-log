@@ -24,8 +24,8 @@ module.exports = (env, argv) => {
 		args.watch = true;
 	} else if (NODE_ENV === 'production') {
 		args.filename = {
-			js: args.name + '.min.js',
-			css: args.name + '.min.css',
+			js: args.name + '.js',
+			css: args.name + '.css',
 		}
 		args.devtool = 'source-map'
 	}
